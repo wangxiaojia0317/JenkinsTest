@@ -16,6 +16,6 @@ public class NewBehaviourScript : MonoBehaviour
     // Update is called once per frame
     void Update()
     {
-        show.text ="ÍõÏþ¼Ñfanfanfna:    "+ DateTime.Now.ToString();
+        show.text ="¹þ¹þ¹þ:    "+ DateTime.Now.ToString();
     }
 }
