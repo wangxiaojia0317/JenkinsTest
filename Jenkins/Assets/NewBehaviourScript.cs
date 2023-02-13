@@ -16,6 +16,6 @@ public class NewBehaviourScript : MonoBehaviour
     // Update is called once per frame
     void Update()
     {
-        show.text = DateTime.Now.ToString();
+        show.text ="Jemkins"+ DateTime.Now.ToString();
     }
 }
