@@ -4,7 +4,7 @@ using UnityEditor;
 using UnityEngine;
 public class BuildTools
 {
-    public static string BuildPath = @"C:\Users\AC_…Ó¿∂\Desktop\build.exe";
+    public static string BuildPath = @"C:\Users\lg.acf525313\Desktop\aaa\build.exe";
     [MenuItem("Tools/Build")]
     public static void PerformBuild()
     {
